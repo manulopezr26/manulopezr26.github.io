@@ -36,19 +36,13 @@ Pulsando [aquí](https://youtu.be/wD8P2AXYyL0) se muestra una programación de u
 
 
 **Parte de código *Copiado del foro AW*:**
-
+`
 public class ClasePrincipal {
-
 public static void main(String[] args) {
-
 sentencia_1;
-
 sentencia_2;
-
 // ...
-
 sentencia_N;
-
 }
-
 }
+`
